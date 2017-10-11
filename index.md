@@ -1,6 +1,3 @@
----
-Title: andreapavone.com
----
 # andp97.github.io
-My Personal Web Site
-Benvenuto!
+Hi, im Andrea and this is
+jus another developer web site!
